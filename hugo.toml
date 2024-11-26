@@ -5,6 +5,27 @@ title = 'Gen AI'
 
 theme = "hugo-theme-m10c"
 
+[pagination]
+  pagerSize = 8
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+    
 [params]
   author = "Togay Tunca"
   description = "A blog about all things technical."

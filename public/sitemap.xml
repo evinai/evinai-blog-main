@@ -8,6 +8,12 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-11-26T19:52:34+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/second-post/</loc>
+    <lastmod>2024-11-26T19:52:34+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <lastmod>2024-11-26T19:45:48+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
